@@ -1,4 +1,7 @@
 # stream lit code
+pip install beautifulsoup4
+pip install lxml
+
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup

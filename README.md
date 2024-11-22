@@ -49,9 +49,9 @@ Extensibility: Future enhancements include deep learning integration and cross-p
 ## 🛠️ Setup and Installation
   Clone the repository:
         
-        git clone https://github.com/your-username/your-repo-name.git
+        git clone https://github.com/manasagangotri/Combined-Feature-Based-and-Content-Based-URL-Analysis-for-Improved-Phishing-Detection.git
         
-        cd your-repo-name
+        cd  Combined-Feature-Based-and-Content-Based-URL-Analysis-for-Improved-Phishing-Detection
   
   Install dependencies:
         

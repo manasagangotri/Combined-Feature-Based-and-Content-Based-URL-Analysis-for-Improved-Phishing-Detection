@@ -5,6 +5,7 @@ Phishing attacks pose a growing cybersecurity threat, targeting individuals and 
 This project leverages machine learning models and ensemble techniques to analyze malicious URLs using two key methods:
 
 Feature-Based Analysis: Extracts structural and statistical features of URLs (e.g., length, special characters, use of IP addresses).
+
 Content-Based Analysis: Analyzes the textual content of the webpages, such as HTML and visible text.
 The system is designed to operate in real-time, providing robust protection against phishing attacks across multiple domains.
 

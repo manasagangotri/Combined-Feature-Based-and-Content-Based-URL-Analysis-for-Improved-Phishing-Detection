@@ -88,9 +88,5 @@ Real-time updates from live threat intelligence feeds.
 
 Development of browser plugins for seamless phishing protection.
 
-# 🚀 Demo
 
-Experience the project in action:
-
-👉 Click here to try the live demo! https://manasagangotri-combined-feature-based-and-content-ba-pp1-xnclqa.streamlit.app/
 
